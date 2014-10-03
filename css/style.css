@@ -53,6 +53,8 @@ footer{
 
 .content-wrapper{
   background-color:#fafa00; /* yellow */
+    width: 80%;
+    margin: 10px auto;
   
   
 }
